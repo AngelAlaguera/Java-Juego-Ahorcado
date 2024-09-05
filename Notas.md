@@ -53,7 +53,7 @@ spring.devtools.restart.enabled=true
 spring.devtools.livereload.enabled=true
 
 --------------------------------------------------------------------------------------
-### Otro metodo mejorado por estudiar.
+### Otra Estructura de Codigo Java.
 
 import java.util.Scanner;
 
