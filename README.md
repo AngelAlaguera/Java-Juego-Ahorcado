@@ -1,18 +1,64 @@
-## Getting Started
+## ¡Java desde cero, curso Por Sergie Code!
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+💻 Java es un lenguaje de programación de alto nivel y orientado a objetos, conocido por su portabilidad y capacidad de ejecutarse en diferentes plataformas sin necesidad de recompilar el código fuente.
 
-## Folder Structure
+⌨️ Este curso no solo se enfoca en JAVA sino que también abarca Spring, Hibernate, PostgreSQL, Docker, Railway, Github, entre otros.
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+🔶 Secciones del curso
+* Introducción cinemática
+* Saludo Inicial
+* Instalaciones necesarias
+* ¿Qué es Java?
+* Configuración para Java
+* Hola Mundo en Java
+* Comentarios e indentación
+* Variables
+* String (cadenas de texto)
+* Operadores
+* Estructuras de control
+    * If else
+    * Switch
+* **PRÁCTICA 1:** Juego de consola (Máquina de bebidas)
+    * Clase Scanner
+* Bucle for
+* while
+* do while
+* Controles de flujo (break, continue, return)
+* Arreglos matrices vectores
+* **PRÁCTICA 2:** Juego del ahorcado
+* Configuración de GIT
+* Repositorio externo en GITHUB
+* README.md
+* POO Programación orientada a objetos
+    * Clases, atributos y métodos
+    * Constructores
+    * Características de la POO
+    * Encapsulamiento: getters y setters
+    * Herencia
+    * static
+    * Clase Abstracta
+    * Interfaces
+* Manejo de errores: try catch
+* Exceptions
+* Colecciones
+    * Hashset, Treeset y LinkedHashSet
+    * ArrayList, LinkedList, Vector
+    * HashMap, TreeMap, LinkedMap
+* **PRÁCTICA 3:** API REST con CRUD
+    * Conceptos introductorios para la práctica 3
+    * Spring Initializr
+    * POM
+    * Maven Repository
+    * Entities
+    * JPA Repositories
+    * Controllers
+    * Application properties
+    * .env (variables de entorno)
+    * Docker
+    * PostgreSQL
+    * Postman
+    * Códigos HTTP
+    * Subir a repositorio Github
+    * Despliegue en Railway 
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
