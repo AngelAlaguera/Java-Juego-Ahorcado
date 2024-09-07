@@ -21,7 +21,9 @@
 8. Controles de Fujos: Break, Continue, Return, try catch finally (No se utilizo) (App6.java)
 9. Arreglos, Matrics y Vectores (App8.java) (2:55:16) no hay App7 jajaja.
     - Projecto 2: Juego del Ahorcado (App9.java)
-10. 
+10. POO Programacion Orientada a Objeto, Clases, Atributos, Metodos (2 clases) (capeta POO, POO2).
+11. POO, Encasulamientos: Getters, Setters (capeta Encasulamiento)
+12. POO, Herencia (4:20:18)
 
 
 ## Ejemplos de otros codigos...
