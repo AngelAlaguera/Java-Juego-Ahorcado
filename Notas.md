@@ -23,7 +23,13 @@
     - Projecto 2: Juego del Ahorcado (App9.java)
 10. POO Programacion Orientada a Objeto, Clases, Atributos, Metodos (2 clases) (capeta POO, POO2).
 11. POO, Encasulamientos: Getters, Setters (capeta Encasulamiento)
-12. POO, Herencia (4:20:18)
+12. POO, Herencia, Polimorfismo, static (Carpeta Herencia).
+13. POO, Clase Abstracta (Carpeta POOClaseAbstracta).
+14. POO, Interfaces (Carpeta 5:00:00)
+
+Nota: Decorador **@Override** es para sobreescribir un metodo, clase que se esta heredando de otra.
+
+Nota: Diferencia Entre Clases Abtractas e Interfaces
 
 
 ## Ejemplos de otros codigos...
